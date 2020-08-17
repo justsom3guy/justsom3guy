@@ -32,6 +32,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Justsom3guy's Github Stats" src="https://github-readme-stats.justsom3guy.vercel.app/api?username=justsom3guy&show_icons=true&theme=nightowl&hide_border=true" />
+  <img align="left" alt="Justsom3guy's Github Stats" src="https://github-readme-stats.justsom3guy.vercel.app/api?username=justsom3guy&show_icons=true&theme=buefy&hide_border=true" />
 
 </details>
