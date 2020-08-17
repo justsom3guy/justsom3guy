@@ -2,14 +2,16 @@
 
 ## I'm a Student and Developer
 
-- 🔭 I’m currently working on a [My Blog][blog]!
+- 🔭 I’m currently working on a [My Blog](https://justsom3guy.wordpress.com)!
 - 🌱 I’m currently learning python and javascript
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me
 
-[<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://justsom3guy.wordpress.com)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sidharth-nair-b44a5b194/)
+
+<br />
 
 ### Languages and Tools:
 
@@ -29,6 +31,3 @@
 
 <br />
 <br />
-
-[blog] : https://justsom3guy.wordpress.com
-[linkedin] : https://www.linkedin.com/in/sidharth-nair-b44a5b194/
