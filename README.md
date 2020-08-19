@@ -3,7 +3,7 @@
 
 <br />
 
-* 🔭 I’m currently working on [My Blog](justsom3guy.wordpress.com)
+* 🔭 I’m currently working on [A Discord Bot](https://github.com/justsom3guy/discord-bot)
 
 * 📝 I started to  write articles on [http://justsom3guy.wordpress.com/](http://justsom3guy.wordpress.com/)
 
