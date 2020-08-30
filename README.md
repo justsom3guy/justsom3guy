@@ -3,7 +3,9 @@
 
 <br />
 
-* 🔭 I’m currently working on [A Discord Bot](https://github.com/justsom3guy/discord-bot)
+* 🔭 I’m currently working on the following projects 
+  + [A Discord Bot](https://github.com/justsom3guy/discord-bot)
+  + [A Flask-Blog](https://github.com/justsom3guy/flask-blog)
 
 * 📝 I started to  write articles on [http://justsom3guy.wordpress.com/](http://justsom3guy.wordpress.com/)
 
