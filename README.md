@@ -8,6 +8,7 @@
   + [MERN to-do-app](https://github.com/justsom3guy/to-do-app)
 
 * 📝 I started to  write articles on [http://justsom3guy.wordpress.com/](http://justsom3guy.wordpress.com/)
+  +  My latest post is about [MERN Stack](https://justsom3guy.wordpress.com/2020/09/09/getting-started-with-mern-stack-part-1/)
 
 * 📫 How to reach me **snair2103@gmail.com**
 
