@@ -13,6 +13,7 @@
 * 📫 How to reach me **snair2103@gmail.com**
 
 <br />
+
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
