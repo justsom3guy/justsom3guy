@@ -5,6 +5,7 @@
 
 * 🔭 I’m currently working on the following projects 
   + [A Discord Bot](https://github.com/justsom3guy/discord-bot)
+  + [MERN to-do-app](https://github.com/justsom3guy/to-do-app)
 
 * 📝 I started to  write articles on [http://justsom3guy.wordpress.com/](http://justsom3guy.wordpress.com/)
 
